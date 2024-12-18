@@ -1,4 +1,4 @@
-Day 2 of My 30-Day Data Analytics Project Series
+##Day 2 of My 30-Day Data Analytics Project Series
 
 🚗 Day 2: Power BI Data Analysis Project Series – Car Sales Analysis Dashboard 🚗
 
